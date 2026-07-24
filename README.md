@@ -4,7 +4,7 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 # Project Management and Documentation
 
-[Notion documentation](https://app.notion.com/p/Notion-documentation-27eb5785e7b380c18290f6bd47d616a3?pvs=21)
+[Notion documentation]([https://app.notion.com/p/Notion-documentation-27eb5785e7b380c18290f6bd47d616a3?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-b6149eec-21f8-49e7-8657-81f86f61fbf6-Part-1))
 
 # Vinyl Cutting and Vectoral Design cricut
 
