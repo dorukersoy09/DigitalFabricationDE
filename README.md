@@ -8,11 +8,11 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 # Vinyl Cutting and Vectoral Design cricut
 
-[Inkscape](https://app.notion.com/p/Inkscape-27eb5785e7b3809a801fd93c8633b042?pvs=21)
+[Inkscape](https://app.notion.com/p/Inkscape-27eb5785e7b3809a801fd93c8633b042?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-52da8174-3d52-4f8f-a46d-e55213194429-Part-1))
 
-[how i completed the cricut project](https://app.notion.com/p/how-i-completed-the-cricut-project-27eb5785e7b3808aa3ebfc5423123d83?pvs=21)
+[how i completed the cricut project](https://app.notion.com/p/how-i-completed-the-cricut-project-27eb5785e7b3808aa3ebfc5423123d83?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-09250fe9-d013-4290-89d4-4a9e8bc73c66-Part-1))
 
-[Gs2-24](https://app.notion.com/p/Gs2-24-27eb5785e7b380feaad1c7f43711538b?pvs=21)
+[Gs2-24](https://app.notion.com/p/Gs2-24-27eb5785e7b380feaad1c7f43711538b?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-b555cf63-1a0d-4aaa-a7b5-15478e144d20-Part-1))
 
 # 2D Design and Laser Cutting
 
