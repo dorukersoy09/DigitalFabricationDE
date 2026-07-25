@@ -22,8 +22,8 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 # 3D Design and Printing
 
-[3D Design and Onshape](https://app.notion.com/p/3D-Design-and-Onshape-27eb5785e7b38028880ad8680a179964?pvs=21)
+[3D Design and Onshape](https://app.notion.com/p/3D-Design-and-Onshape-27eb5785e7b38028880ad8680a179964?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-8785036d-b802-4b00-b8bd-cab713d87348-Part-1))
 
-[3D Printing and Additive Manufacturing](https://app.notion.com/p/3D-Printing-and-Additive-Manufacturing-27eb5785e7b3801d9041dd0779751510?pvs=21)
+[3D Printing Final Project](https://app.notion.com/p/3D-Printing-and-Additive-Manufacturing-27eb5785e7b3801d9041dd0779751510?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/R2D2DERobot))
 
 [Blender and Mesh Based 3D Design](https://app.notion.com/p/Blender-and-Mesh-Based-3D-Design-27eb5785e7b380d496a7edd8915996eb?pvs=21)
