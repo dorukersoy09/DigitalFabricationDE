@@ -16,9 +16,7 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 # 2D Design and Laser Cutting
 
-[Cuttle XYZ and 2D design](https://app.notion.com/p/Cuttle-XYZ-and-2D-design-27eb5785e7b380e5be43d60ac429dee5?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-35638558-5bb9-413f-9e83-1ce091c96d2e-Part-1))
-
-[Laser Cutting](https://app.notion.com/p/Laser-Cutting-27eb5785e7b38059bdb8e44178a5d711?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-35638558-5bb9-413f-9e83-1ce091c96d2e-Part-1))
+[Cuttle XYZ, 2D design and Lazer Cutting](https://app.notion.com/p/Laser-Cutting-27eb5785e7b38059bdb8e44178a5d711?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-35638558-5bb9-413f-9e83-1ce091c96d2e-Part-1))
 
 # 3D Design and Printing
 
@@ -26,4 +24,3 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 [3D Printing Final Project](https://app.notion.com/p/3D-Printing-and-Additive-Manufacturing-27eb5785e7b3801d9041dd0779751510?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/R2D2DERobot))
 
-[Blender and Mesh Based 3D Design](https://app.notion.com/p/Blender-and-Mesh-Based-3D-Design-27eb5785e7b380d496a7edd8915996eb?pvs=21)
