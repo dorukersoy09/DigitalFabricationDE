@@ -18,7 +18,7 @@ Hello I am Doruk I am Student at Hisar Schools. I am in 11th grade and taking th
 
 [Cuttle XYZ and 2D design](https://app.notion.com/p/Cuttle-XYZ-and-2D-design-27eb5785e7b380e5be43d60ac429dee5?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-35638558-5bb9-413f-9e83-1ce091c96d2e-Part-1))
 
-[Laser Cutting](https://app.notion.com/p/Laser-Cutting-27eb5785e7b38059bdb8e44178a5d711?pvs=21)
+[Laser Cutting](https://app.notion.com/p/Laser-Cutting-27eb5785e7b38059bdb8e44178a5d711?pvs=21](https://github.com/dorukersoy09/DigitalFabricationDE/tree/main/ExportBlock-35638558-5bb9-413f-9e83-1ce091c96d2e-Part-1))
 
 # 3D Design and Printing
 
